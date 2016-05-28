@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: "„AMD Radeon Pro Duo“ – greičiausia vaizdo plokštė pasaulyje"
+author:
+  display_name: Mindaugas Klumbis
+  login: Katonas
+  email: katonasf1@yahoo.com
+  url: ''
+author_login: Katonas
+author_email: katonasf1@yahoo.com
+wordpress_id: 19998
+wordpress_url: http://www.technews.lt/portal/?p=19998
+date: '2016-04-27 10:08:10 +0300'
+date_gmt: '2016-04-27 07:08:10 +0300'
+categories:
+- Naujienos
+---
+<p>Pagaliau sulaukėme AMD naujo flagmano – „Radeon Pro Duo“, tai taip pat ir sparčiausia vaizdo plokštė pasaulyje. Tokią išvadą galime padaryti iš AMD išplatintų skaidrių bei išankstinės „<a href="http://www.expreview.com/46810.html" target="_blank">Expreview</a>“ apžvalgos, daugiau apžvalgų kol kas nematyti, o didelio jų kiekio ir neverta tikėtis.</p>
+<p>„Radeon Pro Duo“ savyje turi du „Fiji“ grafikos lustus su 4096 Stream procesoriais, kurie disponuoja 4 GB HBM atmintimi. Bendras vaizdo plokštės buferis - 8 GB. Šis grafikos adapteris generuoja net 16 TFLOPS skaičiuojamąją galią ir yra labiau skiriamas kūrėjams, o ne žaidėjams.</p>
+<p style="text-align: center;"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-specs.jpg"><img class="aligncenter wp-image-19941 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-specs.jpg" alt="Radeon Pro Duo specs" width="1283" height="555" /></a></p>
+<p>AMD mato Pro Duo kaip vaizdo plokštę, kurią pirks kūrėjai, ypač dirbantys su virtualiai realybei pritaikytomis aplikacijomis ir žaidimais. Ir nors grafikos adapteris pateiktuose žaidimų testuose pasirodo gerai, bet naudojant daugiau nei vieną vaizdo plokštę neretai pasitaiko nesklandumų. Blogiausia, kad kai kurie žaidimai net nepalaiko CF ir SLI technologijų, tad Pro Duo veiktų kaip viena Fury X vaizdo plokštė.</p>
+<p>„Radeon Pro Duo“ ką tik pristatyta, bet Lietuvoje jos įsigyti galimybės nėra. Pasinaudojus „<a href="https://geizhals.at/?fs=radeon+pro+duo&amp;in=" target="_blank">Geizhals</a>“ paieškos varikliu, Europoje randame XFX ir „Sapphire“ pasiūlymus. Prašoma suma nesiskiria - 1599 €.</p>
+<p style="text-align: center;"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-012.jpg"><img class="alignnone wp-image-20008 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-012-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-012" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-011.jpg"><img class="alignnone wp-image-20009 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-011-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-011" width="800" height="450" /></a></p>
+<p style="text-align: center;">  <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-008.jpg"><img class="alignnone wp-image-20001 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-008-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-008" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-007.jpg"><img class="alignnone wp-image-20002 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-007-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-007" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-009.jpg"><img class="alignnone wp-image-20003 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-009-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-009" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-010.jpg"><img class="alignnone wp-image-20004 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-010-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-010" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-014.jpg"><img class="alignnone wp-image-20005 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-014-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-014" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-015.jpg"><img class="alignnone wp-image-20006 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-015-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-015" width="800" height="450" /></a> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-016.jpg"><img class="alignnone wp-image-20007 size-medium" src="http://www.technews.lt/portal/wp-content/uploads/2016/04/Radeon-Pro-Duo-briefing-deck-page-016-800x450.jpg" alt="Radeon-Pro-Duo-briefing-deck-page-016" width="800" height="450" /></a></p>

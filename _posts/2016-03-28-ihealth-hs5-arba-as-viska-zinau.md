@@ -1,0 +1,74 @@
+---
+layout: post
+status: publish
+published: true
+title: Išmaniosios svarstyklės „iHealth HS5“, arba „aš viską žinau“
+author:
+  display_name: egliosha
+  login: egliosha
+  email: eklumbe@yahoo.com
+  url: ''
+author_login: egliosha
+author_email: eklumbe@yahoo.com
+wordpress_id: 9766
+wordpress_url: http://www.technews.lt/portal/?p=9766
+date: '2016-03-28 10:00:56 +0300'
+date_gmt: '2016-03-28 07:00:56 +0300'
+categories:
+- Multimedia įrenginiai
+- Apžvalgos
+---
+<p style="text-align: justify">Šiais laikais, kai net rašikliai išmanūs, galima kone visus įprastus buities prietaisus pritaikyti daugiau nei vienai funkcijai, kurią jie įprastai atlikdavo. „iHealth“ kompanija kuria produktus, orientuotus į žmogaus sveikatą ir jos stebėjimą pasitelkiant išmaniąsias technologijas. Kompanijos sukurta bevielių svarstyklių ir kraujo spaudimo monitorių linija buvo tikra revoliucija. Ji ir toliau tobulina šias technologijas. Savo organizmo būsenos sekimas tikrai nėra naujiena, tam rinkoje pilna produktų. Problema, kad daugelis šių įrenginių vartotojo duomenis saugo tik savo atmintyje ir negali būti lengvai matomi, sekami ar jais dalijamasi. „iHealth“ mobiliųjų technologijų integracija patraukė dėmesį vartotojų, kurie dabar gali matuoti, sekti ir dalintis savo fiziniais duomenimis.</p>
+<p style="text-align: justify"> Vienas tokių produktų – „iHealth Wireless Scale HS5” išmaniosios svarstyklės, skirtos ne tik svertis, tačiau ir išmatuoti KMI (kūno masės indeksą), riebalų kiekį, raumenų, kaulų, vandens masę organizme, atlieka vidaus organus supančių riebalų analizę ir nustato rekomenduojamą paros kalorijų skaičių, ir visus šiuos duomenis galima vizualiai stebėti savo mobiliajame telefone ar planšetiniame kompiuteryje. Kažkada tokius tyrimus tekdavo darytis mokamai, o dabar visa tai galima sužinoti namuose, užlipus ant paprasčiausių svarstyklių.</p>
+<p style="text-align: justify">Kaip nurodo gamintojas, „iHealth Wireless Scale HS5” – tai preciziškas elektroninis prietaisas, skirtas suaugusiems naudotojams. Svarstyklės veikia pilnai elektronine metodologija ir automatiniais neinvaziniais slėgio jutikliais, matuojančiais kūno komponentus. Svarstyklės gali atpažinti ir kaupti duomenis, programėlėje vaizduoti tai diagramiškai ar pagal atliktų svėrimųsi datą ir laiką.</p>
+<p style="text-align: justify"><strong>Pakuotė ir komplektacija</strong></p>
+<p style="text-align: justify">Svarstyklės pristatomos tvirtoje kartoninėje dėžutėje, kuri anglų ir prancūzų kalba informuoja, kokių funkcijų galite tikėtis iš savo pirkinio. Ir, nors raidelė „i“ pavadinime ir „iPhone“ ir „iPad“ nuotraukos garsiai deklaruoja, kad šis daiktas skirtas iOS operacinės sistemos vartotojams, tačiau nepasigaukite, juo gali naudotis ir turintys Android įrenginius.</p>
+<p style="text-align: center"><img class="alignnone wp-image-9856" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-1-500x333.jpg" alt="iHealth HS5 (1)" width="374" height="249" /> <img class="alignnone wp-image-9857" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-2-500x333.jpg" alt="iHealth HS5 (2)" width="374" height="249" /><br />
+<img class="alignnone wp-image-9858" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-3-333x500.jpg" alt="iHealth HS5 (3)" width="374" height="561" /> <img class="alignnone wp-image-9859" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-4-333x500.jpg" alt="iHealth HS5 (4)" width="374" height="561" /></p>
+<p style="text-align: justify">Atidarius dėžę randama dar viena kartoninė dėžutė, kurioje suvyniotos į plastikinį maišelį guli svarstyklės, po jomis – greita įdiegimo ir vartotojo instrukcijos. Svarstyklėse taip pat rasite pridedamus maitinimo elementus.</p>
+<p style="text-align: center"><strong> <a href="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-5.jpg"><img class="alignnone wp-image-9860 " src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-5-500x333.jpg" alt="iHealth HS5 (5)" width="374" height="249" /> </a><a href="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-6.jpg"><img class="alignnone wp-image-9861 " src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-6-500x333.jpg" alt="iHealth HS5 (6)" width="374" height="249" /></a></strong></p>
+<p style="text-align: justify"><strong>Specifikacijos</strong></p>
+<p style="text-align: justify">„iHealth Wireless Scale HS5” yra pilnai automatinės elektroninės svarstyklės, kurios matuoja 9 skirtingus kūno komponentus. Kūno analizė vyksta per 4 elektroninius jutiklius ir naudojant patentuotą kūno sudėties matmenų algoritmą. Stovint nuogomis kojomis ant metalinių sensorių svarstyklės gali tiksliai išmatuoti 9 skirtingus kūno sudėties elementus.</p>
+<p style="text-align: justify">Svarstyklės su telefonu ar planšetiniu kompiuteriu susiejamos per bevielį internetą (20 metrų atstumu). Jei šalia nėra telefono, visi svėrimosi duomenys talpinami į „iHealth Cloud“,  jei nėra veikiančio interneto – ne bėda, nes svarstyklės savo atmintyje geba išsaugoti iki 200 svėrimųsi duomenis, kurie automatiškai atsiranda tiek debesyje, tiek telefono išmaniojoje programėlėje. Išmanioji programėlė yra pritaikyta Android 3,0+ ir iOS 5,0 operacinėms sistemoms.</p>
+<p style="text-align: justify">Svarstyklės turi savo svorio apribojimus, tad jei sveriate daugiau nei 150 kilogramų jums teks pasiieškoti kito produkto, atitinkančio reikalavimus.</p>
+<p style="text-align: justify">„Wireless Scale HS5” savo komplektacijoje turi 4 1.5V AA  tipo maitinimo elementus, kurie turėtų atlaikyti pusę metų normalaus naudojimosi.</p>
+<p style="text-align: center"><img class="aligncenter wp-image-9869 size-full" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/specifikacijos-2.jpg" alt="specifikacijos" width="648" height="207" /></p>
+<p style="text-align: justify"><strong>Išorinis dizainas</strong></p>
+<p style="text-align: justify">„Wireless Scale HS5” svarstyklių dizainas minimalistiškas, forma gal kiek neįprasta įprastai lygiakraštėms svarstyklės – iš ilgio jos kiek įgaubtos link centro. Viršutinėje tamsiai pilkoje dalyje įspaustas gamintojo logotipas ir įmontuoti 4 jutikliai, matuojantys kūno sudėtį. Visa viršutinė dalis (išskyrus metalines dalis) yra padengta skaidraus plastiko sluoksniu, po kuriuo skirtingoje pusėje nei prekės ženklas užsižiebia bevielio interneto ir vartotojo piktogramos bei matavimų skaičiai.</p>
+<p style="text-align: center"><img class="alignnone wp-image-9862" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-7-500x333.jpg" alt="iHealth HS5 (7)" width="374" height="249" /> <img class="alignnone wp-image-9863" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-8-500x333.jpg" alt="iHealth HS5 (8)" width="374" height="249" /></p>
+<p style="text-align: justify">Apatinė dalis talpina keturias gumuotas kojeles, techninių parametrų lipduką bei dangtelį, kuris atsidaro paspaudus mygtuką šalia jo.</p>
+<p style="text-align: center"><img class="alignnone wp-image-9864" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-9-500x333.jpg" alt="iHealth HS5 (9)" width="375" height="250" /> <img class="alignnone wp-image-9865" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-10-500x333.jpg" alt="iHealth HS5 (10)" width="375" height="250" /></p>
+<p style="text-align: justify">Po šiuo dangteliu slepiasi maitinimo elementai, svorio matų nustatymo jungiklis bei mygtukas svarstyklių įdiegimui.</p>
+<p style="text-align: center"><img class="alignnone wp-image-9866" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-11-500x333.jpg" alt="iHealth HS5 (11)" width="375" height="250" /> <img class="alignnone wp-image-9867" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-12-500x333.jpg" alt="iHealth HS5 (12)" width="375" height="250" /></p>
+<p style="text-align: justify">Svarstyklių šonai puošiasi sidabro spalvos plastiko detalėmis, atšaukiančiomis metalines dalis.</p>
+<p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-13.jpg"><img class="wp-image-9868 aligncenter" src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-HS5-13-500x333.jpg" alt="iHealth HS5 (13)" width="389" height="259" /></a></p>
+<p style="text-align: justify">„Wireless Scale HS5“ surinkimas silpnokas, stipriau paspaudus kažkas nori girgždėti, tačiau ant grindų jos stovi stabiliai ir tvirtai. Svertis ant kilimo labai nerekomenduoju, nebent jis labai plonas ir kietas, nes gaunami duomenys būna netikslūs.</p>
+<p style="text-align: justify"><strong>Naudojimas</strong></p>
+<p style="text-align: justify">Svarstyklių įdiegimas nėra sudėtingas (nors daugiausia nusiskundimų būna būtent dėl susiejimo su telefonu ir bevieliu ryšiu), jei nepavyksta iš pirmo karto rekomenduoju išimti maitinimo elementą ir perkrovus sistemą viskas bus gerai. Visi žingsniai yra smulkiai aprašomi pridedamoje instrukcijoje.</p>
+<p style="text-align: justify">Išmanioji programėlė „iHealth MyVitals“ yra bendra visiems „iHealth“ produktams (svarstyklėms, išmaniesiems laikrodžiams, pulso matuokliams ir kt.), taigi jei turite daugiau šio gamintojo įrenginių bus labai patogu visus duomenis stebėti vienoje vietoje ir nereikės siųstis atskiros programėlės kiekvienam daiktui.</p>
+<p style="text-align: justify">Jei norėsite svarstyklėmis naudotis ne vienas, bet su šeimos nariais ar sportuojančiųjų komanda, pravartu susikurti atskiras paskyras, kuriose bus galima stebėti savo duomenis. Kaip minėjau anksčiau, galima pridėti 20 skirtingų vartotojų ir naudotis tomis pačiomis svarstyklėmis – svarstyklės geba automatiškai atpažinti skirtingus vartotojus, jei jų fizinės savybės yra labai skirtingos. Tačiau geriausia yra susikurti savo paskyrą ir kassyk sveriantis perjungti savo naudotoją išmaniojoje programėlėje, tada svarstyklės tvarkingai “sumes” duomenis ten, kur reikia.</p>
+<p style="text-align: center"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth.jpg"><img class="aligncenter wp-image-9874 " src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth-500x443.jpg" alt="iHealth" width="395" height="350" /></a></p>
+<p style="text-align: justify">Gamintojas skelbia, kad svarstyklės matuoja 9 kūno sudėties komponentus, kurie apima: svorį, kūno riebalus, liesąją masę, raumenų masę, kaulų masę, kūną sudarantį vandenį, suvartojamų kalorijų kiekį, kūno masės indeksą ir visceralinių (vidinių) riebalų kiekį.</p>
+<p style="text-align: justify"><a href="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth1.jpg"><img class="aligncenter wp-image-9872 " src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth1-500x295.jpg" alt="iHealth1" width="593" height="350" /></a></p>
+<p style="text-align: justify">Apie beveik kiekvieną jų informaciją rasite išmaniojoje programėlėje DUK skyriuje (deja, tik anglų kalba). Kadangi riebalų, raumenų ir kaulų masė yra labai individuali, norminės matavimo vienetų masės yra nurodytos tik kūną sudarančio vandens (45-60 proc. moterims, 50-65 proc. vyrams) ir vidinių riebalų (1-12 sveikas lygis, 13-59 padidintas vidinių riebalų kiekis).</p>
+<p style="text-align: justify">„iHealth“ nurodo, kokiu tikslumu ir paklaidomis matuoja „Wireless Scale HS5“ svarstyklės, juos galima apžvelgti gamintojo puslapyje.</p>
+<p style="text-align: justify">„iHealth“ programėlė yra susieta su debesimi, kur kaupiamos ir saugomos gautų duomenų kopijos. Prisijungus prie savo paskyros iš bet kurio įrenginio galima apžvelgti visus anksčiau gautus savo kūno sudėties rezultatus. Nesvarbu, kuriuo produktu naudojatės, galėsite savo duomenimis dalintis su draugais, šeimos nariais ar gydytoju.</p>
+<p style="text-align: justify">Gautus matavimus galima apžvelgti pačioje programėlėje diagramų forma.</p>
+<p><a href="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth2.jpg"><img class="aligncenter wp-image-9873 " src="http://www.technews.lt/portal/wp-content/uploads/2016/03/iHealth2-500x295.jpg" alt="iHealth2" width="593" height="350" /></a></p>
+<p style="text-align: justify">Svarbu paminėti, kad šiomis svarstyklėmis griežtai <u>nerekomenduojama</u> naudotis žmonėms, turintiems širdies stimuliatorių.</p>
+<p style="text-align: justify"><strong>Išvados</strong></p>
+<p style="text-align: justify">Buvo laikai, kai „iHealth“ siūlė produktus tik iOS vartotojams, tačiau „Wireless Scale HS5“ gali naudoti ir turintys Android operacine sistema varomus išmaniuosius telefonus. Deja, tačiau programėlė nėra skirta Android planšetiniams kompiuteriams ar personaliniams kompiuteriams (tiek OS, tiek Windows operacinėms sistemoms). Kartu su nemokama programėle gausite ir nemokamą duomenų saugyklą debesyje, kuri sutaupo naudotojui telefono atminties. Šitos svarstyklės pravers, jei jums aktualu sekti savo svorio ir kūno sudėties pokyčius – tam nereikės nieko užsirašinėti, tiesiog atsistoji ant svarstyklių ir eini toliau, duomenys bus išsaugoti ir atsiras telefone vos įjungus išmaniąją programėlę.</p>
+<p style="text-align: justify">Svarstyklės turi nemažą svorio matų pasirinkimą – kilogramai, svarai ir stonai, tačiau norėtųsi, kad juos būtų galima pasirinkti kiekvienam vartotojui savo programėlėje, o ne vartant svarstykles, atidarinėjant dangtelį ir perjungiant rankiniu būdu.</p>
+<p style="text-align: justify">„Wireless Scale HS5“ svarstyklės laikomos geriausiu pasirinkimu atletams ir sporto fanatikams, nes rodo daug fizinių duomenų rodiklių, taip pat svarstykles galima derinti su kitais „iHealth“ įrenginiais, juolab, kad programėlė visiems jiems yra bendra.</p>
+<p style="text-align: justify">Ir nors nemažas pliusas, kad išmanioji programėlė „MyVitals“ yra paprasta, tačiau galbūt net per paprasta, nes norėtųsi kažkokių atramos taškų vertinant savo kūno rodiklius, įvertinti ne tik KMI (kūno masės indeksas), bet ir kitus rodmenis, kiek jie atitinka normas.</p>
+<p style="text-align: justify">Prekę rasite <a href="http://www.pigu.lt">www.pigu.lt</a></p>
+<p style="text-align: justify"><u>Pliusai:</u></p>
+<p style="text-align: justify">Lengvas naudojimas.</p>
+<p style="text-align: justify">Svorio matų pasirinkimas iš 3 variantų.</p>
+<p style="text-align: justify">Paprasta naudoti programėlė.</p>
+<p style="text-align: justify">DUK skyrelis pačioje programėlėje.</p>
+<p style="text-align: justify">Gali naudotis iki 20 registruotų vartotojų. Paprastai sveriantis skaičius neribojamas.</p>
+<p style="text-align: justify"><u>Minusai:</u></p>
+<p style="text-align: justify">Nėra 100 proc. tikslios. Pavyzdžiui sveriantis su megztiniu padidėja riebalų masė.</p>
+<p style="text-align: justify">Pačios svarstyklės rodo tik svorį ir riebalų masę.</p>
+<p style="text-align: justify"><strong> </strong></p>

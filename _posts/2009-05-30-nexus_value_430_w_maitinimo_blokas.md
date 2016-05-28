@@ -1,0 +1,89 @@
+---
+layout: post
+status: publish
+published: true
+title: Nexus Value 430 W maitinimo blokas
+author:
+  display_name: Suvirintojas
+  login: Suvirintojas
+  email: dovrim@yahoo.com
+  url: ''
+author_login: Suvirintojas
+author_email: dovrim@yahoo.com
+wordpress_id: 3551
+wordpress_url: http://localhost/site/new/nexus_value_430_w_maitinimo_blokas/
+date: '2009-05-30 18:01:27 +0300'
+date_gmt: '2009-05-30 15:01:27 +0300'
+categories:
+- Maitinimo šaltiniai
+- Apžvalgos
+---
+<p>Šiais laikais jau nieko nenustebinsi 1000 W ar net galingesniais maitinimo blokais, skirtais entuziastams spartintojams ar žaidimų fanatikams, naudojantiems dvi, tris ar net keturias vaizdo plokštes ir galingiausius spartintus procesorius. Kokybiškas maitinimo blokas yra labai svarbus kompiuterio komponentas, tačiau nereikėtų vaikytis didelių skaičių, kadangi daugumai kompiuterių pakanka ir kur kas silpnesnių alternatyvų. Šiandien apžvelgsime kompanijos <i>Nexus Value</i> serijos 430 W maitinimo bloką, kuris nors ir nėra labai galingas, tačiau palaiko visus šiuolaikinio maitinimo bloko standartus ir turi reikalingiausių jungčių komplektą.</p>
+<p><b>TURINYS:</b></p>
+<p>Apie gamintoją<br />
+<br />Pakuotė ir komplektacija<br />
+<br />Specifikacijos<br />
+<br />Žvilgsnis iš arčiau<br />
+<br />Testavimo metodika<br />
+<br />Rezultatai<br />
+<br />Išvados</p>
+<p><b>Apie gamintoją</b></p>
+<p>2000 metais Nyderlanduose įkurta kompanija gamina įvairaus tipo (procesorių, kietųjų diskų, korpuso) aušintuvus, taip pat maitinimo blokus ir korpusus. <i>Nexus</i> skiria daug dėmesio tyliam kompiuterių veikimui, todėl tarp jų gaminių galime rasti ir ventiliatorių ir kietųjų diskų montavimo priemonių, sumažinančių jų vibraciją ir taip pat keliamą triukšmą.</p>
+<p><b>Pakuotė ir komplektacija</b></p>
+<p>Maitinimo blokas parduodamas neypatingai išvaizdžioje kartotinėje dėžutėje. Rudą dėžutės spalvą pagyvina tik kelios žalios bei baltos spalvos juostos, kartu su pavadinimu, pagrindinėmis gaminio savybėmis bei specifikacijomis. Pasak gamintojo, dėžutė pagaminta iš perdirbtų medžiagų. Taip akcentuojamas dėmesys į gamtą.</p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/2.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/2.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/1.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/1.jpg" /><br /></a></p>
+<p>Galinėje dėžutės dalyje keliomis pastraipomis išskiriamos tokios bloko savybės kaip 80% ir geresnis naudingumo koeficientas, tylus veikimas, įvilkti kabeliai bei aktyvi PFC grandinė. Dėžutės šone matome dvi diagramas su triukšmo lygio bei naudingumo koeficiento priklausomybėmis nuo bloko apkrovos (jas galima rasti ir <a class="ns" href="http://www.nexustek.nl/NXS-Nexus-VALUE-430-silent-power-supply-80plus-430watt.htm"><i>Nexus</i></a> tinklapyje).</p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/4.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/4.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/3.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/3.jpg" /><br /></a></p>
+<p>Atsidarę pakuotę randame į „burbulinį“ maišelį įdėtą maitinimo bloką ir... Daugiau nieko. Netgi maitinimo kabeliais vartotojai turės pasirūpinti patys.</p>
+<p><b>Specifikacijos</b></p>
+<p>Kaip jau minėjau pradžioje, bendra nepertraukiama šio maitinimo bloko galia, pasak gamintojo, siekia 430 W.  <i>Nexus 430 Value</i> palaiko  ATX v2.2 standartą, atitinka <i>RoHS</i> ir <i>WEEE</i> standartų keliamus reikalavimus. Tiesa, tai nėra išskirtinė gaminio savybė, kadangi Visi Europos Sąjungos valstybėje parduodami blokai turi atitikti šiuos standartus. Pasak <i>Nexus</i>, <i>Value 430</i> W naudingumo koeficientas siekia 80 procentų. Tiesa, nei ant bloko dėžutės, nei specifikacijų sąraše gamintojo tinklapyje nematyti oficialaus „80 Plus“ standarto logotipo, reiškiančio, jog maitinimo blokas turi 0,9 ar aukštesnį galios faktorių bei, esant 20, 50 ir 100 procentų apkrovai, ne mažiau nei 80 procentų iš elektros tinklo gautos galios paverčia naudinga galia kompiuterių komponentų maitinimui (likusi galia virsta nenaudinga šiluma). Maitinimo blokas turi apsaugas nuo per didelės srovės ir įtampos (trumpo jungimo) bei perkaitimo.</p>
+<p>Viena labiausiai akcentuojamų šio maitinimo bloko savybių yra tylus veikimas. <i>Nexus</i> teigia, jog neapkrauto maitinimo bloko triukšmo lygis yra mažesnis nei 15 dbA. Skaičius įspūdingas, tačiau apkrovus bloką aušintuvo apsukos ima kilti. Triukšmas tuomet, žinoma, padidėja.</p>
+<p>Kaip ir visi šiuolaikiniai maitblokiai, taip ir šis gali be problemų veikti tiek ir Europoje, kur standartinė tinklo įtampa yra 230 V, tiek ir JAV, kur tinklo įtampa perpus mažesnė. </p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/7.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/7.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/9.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/9.jpg" /><br /></a></p>
+<p>Pažvelgę į maitinimo bloko galios tarp įtampų linijų paskirstymą matome, jog +12 V linija šiame maitinimo bloke padalinta net į keturias virtualias +12 V linijas, kurių kiekviena gali tiekti iki 20 A stiprio srovę. Visgi maksimali kombinuota visų šių linijų galia neturėtų viršyti 396 W (33 A srovės). Maitinimo blokuose, o ypač tokiuose kaip šis, kurie yra nedidelės galios, mieliau matyčiau apskritai nedalintą +12 V liniją, tačiau šiuo atveju maksimalios srovės stiprio ribos visoms virtualioms linijoms yra gana didelės (20 A), todėl problemų su daugiau galios reikalaujančių komponentų prijungimu neturėtų iškilti. Šiuo atveju prie vienos tokios virtualios linijos prijungtas laidas procesoriaus maitinimui, prie kitos – SATA ir molex maitinimo jungtys bei pagrindinės plokštės maitinimo jungties +12 V kontaktai, o prie likusių dviejų – po vieną PCI-E maitinimo kabelį. Vėliau pabandysime išsiaiškinti, ar tikrai tokia ir yra maksimali +12 V linijos riba.</p>
+<p>Maksimali tiek +3,3, tiek +5 V riba yra 24 A, o kombinuota šių linijų galia - 140 vatų. Šie dydžiai net ir žymiai galingesniuose maitinimo blokuose nebūna ženkliai didesni, kadangi daugiausia galios yra gaunama iš +12 V linijų.</p>
+<p><b>Žvilgsnis iš arčiau</b></p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/8.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/8.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/5.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/5.jpg" /><br /></a></p>
+<p><a class="ns" href=" http://svarke.technews.lt/Nexus430/6.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/6.jpg" /><br /></a></p>
+<p>Blokas pirmiausiai dėmesį patraukia savo dydžiu. Ne, jis nėra ypatingai didelis, kaip didelės galios blokai priešingai - mažesnis už įprastinį ATX maitinimo bloką (<i>Value</i> matmenys siekia 15 x 12,5 x 8,5 cm). Nepaisant to, iš išorės blokas daugiau niekuo neišsiskiria. Šone užklijuotas lipdukas su specifikacijomis, o galinėje dalyje matome groteles, pro kurias ventiliatoriaus išstumiamas įkaitęs oras, ir įjungimo mygtuką. <i>Value 430</i> maitinimo kabelių atjungti negalima, todėl laisvus kabelius teks paslėpti korpuse. Kaip ir dauguma kitų tokios klasės maitinimo blokų, taip ir šis negali pasigirti dideliu kabelių kiekiu, visgi prijungti naujausius komponentus problemų nekils. </p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/18.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/18.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/17.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/17.jpg" /><br /></a><br />
+<br /><span class="saltinis"> <i>Nexus Value</i> dydžio 430 W palyginimas su įprastiniu maitinimo bloku</span></p>
+<p>Iš <i>Nexus Value 430 W</i> išeina vienas 20+4 kontaktų kabelis pagrindinei plokštei (~55 cm), 4+4 kontaktų kabelis procesoriaus maitinimui (~45 cm), vienas 6 bei vienas 6+2 kontaktų kabeliai vaizdo plokštės maitinimui (po ~45 cm), du kabeliai, turintys po dvi SATA įrenginių maitinimo jungtis (~60 + 15 cm) bei du kabeliai, turintys po tris keturių kontaktų „molex“ jungtis (~40 + 15 + 15 cm). Ant vieno iš šių kabelių papildomai įrengta keturių kontaktų „floppy“ maitinimo jungtis (15 cm). Visi kabeliai įvilkti, pagrindinių laidų storis siekia 16 AWG. Kaip matote, jungčių nėra ypatingai daug, tačiau pagrindiniai keliami reikalavimai maitinimo blokui iki 500 W yra išpildomi. Jei jungti kelias galingas plokštes <i>SLI</i> ar <i>CrossFire</i> režimu čia ir nenumatyta, tačiau nereikės rūpintis laidų perėjimais prijunginėjant vaizdo plokštę, kuriai prijungti reikia dviejų PCI-E maitinimo kabelių. Laidų ilgis taip pat neturėtų kelti problemų.</p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/11.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/11.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/10.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/10.jpg" /><br /></a></p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/12.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/12.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/13.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/13.jpg" /><br /></a></p>
+<p>Maitinimo bloke naudojamas kompanijos <i>Muhua Industrial MH1225L12S</i> 120 x 120 x 25 mm, 0,18 A ventiliatorius, apie kurį platesnės informacijos rasti nepavyko. Visa erdvė bloko viduje atrodo pakankamai „ankšta“  (prisiminkite, jog blokas yra kompaktiškesnių matmenų), visgi konstrukcija per daug neišsiskiria. Dvi eiles tranzistorių dengia aliuminio radiatoriai, prie vieno iš jų įtaisytas temperatūros sensorius, pagal kurio duomenis automatiškai keičiamos ventiliatoriaus apsukos. Tarp radiatorių įspraustus matome du transformatorius, kairiajame apatiniame kampe - pagrindinį kondensatorių (Taivano gamintojo <i>Teapo</i> 450 V, 220 uF), pritaikytą veikti iki 85 laipsnių temperatūroje. Kiek kairiau matome antrąją filtravimo grandinės dalį su papildomai neaušinamu diodų tilteliu.</p>
+<p><a class="ns" href="http://svarke.technews.lt/Nexus430/14.jpg">
+<div class="imgright"><img src="http://svarke.technews.lt/Nexus430/s/14.jpg" border="1" /></div>
+<p></a><a class="ns" href=" http://svarke.technews.lt/Nexus430/15.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/15.jpg" /><br /></a></p>
+<p><b>Testavimo metodika</b></p>
+<p>Paprastai neskiriu testų metodams atskiro skyrelio apžvalgoje ir apsiriboju metodikos aprašymu šalia testų rezultatų, tačiau šiuo atveju toks skyrelis yra būtinas. Dažnai akcentuojama, jog vaizdo plokštės ar procesoriai turėtų būti testuojami realiose situacijose, mažiau dėmesio skiriant „sintetinėms“ testų programoms, kurios kurtos išbandyti produktų galimybes siauroje srityje ir kartais neatspindi realios jų spartos. Su maitinimo blokais situacija kiek kitokia.</p>
+<p>Gamintojai praktiškai visas reikalingas maitinimo bloko savybes pateikia jo specifikacijose, ir pagrindinis apžvalgos tikslas šiuo atveju yra išsiaiškinti, ar maitinimo blokas jas atitinka ir ar telpa į ATX standartų rėmus. Kuo mažiau svyruoja įtampos, kuo didesnę apkrovą jis atlaiko, kuo tyliau veikia, kuo efektyviau naudoja iš elektros lizdo gaunamą elektros energiją ir kuo vėsiau jis veikia, tuo maitinimo bloko pasirodymą galima laikyti geresniu.</p>
+<p>Deja, visa tai išsiaiškinti neužtenka įdėti maitinimo bloko į kompiuterį ir jį apkrauti. Kiekvienas maitinimo blokas skiriasi savo parametrais, todėl kiekvienam jų testuoti reiktų skirtingos kompiuterių konfigūracijos, jau neminint to, kad ją tinkamai parinkti būtų beveik neįmanoma. Taigi kaip tinkamai jį apkrauti yra pati pirmoji ir bene didžiausia maitinimo blokų testavimo problema. Apie tai jau minėta <a class="ns" href="http://www.technews.lt/naujiena/n/a/Chieftec_Green_Angel_500_W_maitinimo_blokas.html"><i>Chieftec Green Angel</i></a> maitinimo bloko apžvalgoje.</p>
+<p>Tad kuo gi skirsis šio maitinimo bloko (ir kitų vėliau <i>Technews</i> apžvelgiamų maitinimo blokų) testai? Ar laimėjome aukso puodą ir įsigijome programuojamos ATE įrangos komplektą už keliolika tūkstančių eurų? Gaila, bet ne. Mums padės „Anatolijus“.</p>
+<p>Ne, tai nėra vyrukas, turintis raktus nuo kompiuterių technikos laboratorijos. Taip mes pavadinome savo reguliuojamą apkrovos generatorių kompiuterio maitinimo blokams. Toliau trumpai pasistengsiu jus su juo supažindinti.</p>
+<p><a class="ns" href=" http://svarke.technews.lt/Nexus430/anatolijus.jpg"><br /><img src="http://svarke.technews.lt/Nexus430/s/anatolijus.jpg" /><br /></a></p>
+<p>Kaip matote, Anatolijus labai primena PII laikų stalinį kompiuterį. Tačiau jo viduje nerasite įprastinės kompiuterio geležies. Vietoje jos čia yra krūva rezistorių, kurių bendra galia siekia iki beveik 1,5 kW (96 A +12V linijoms bei po 40 A +5 ir +3,3 V linijoms), todėl juo galėsime išbandyti ir galingiausius šiuo metu rinkoje esančius maitinimo blokus. Maitinimo blokų +12 V linijų OCP apsaugos taip pat nekels rūpesčių, kadangi prie Anatolijaus galima prijungti keturias +12 V linijas. +3,3 ir +5 V linijų srovės stiprį šis įrenginys leidžia reguliuoti 4 A žingsniu, o +12 V - 2 A žingsniu.</p>
+<p>Visgi tūkstančius eurų ar dolerių programuojamiems apkrovų generatoriams technikos apžvalgų portalai leidžia ne be reikalo. Tokios technikos privalumas yra tikslumas. Dažniausiai linijų srovės stiprius su tokiais įrenginiais galima reguliuoti šimtųjų ampero dalių tikslumu. Tokio tikslumo su „Anatolijum“ gauti negalime. Srovės esant skirtingoms apkrovoms šiek tiek kinta, todėl gauti lygiai tokią pačią apkrovą, kokia buvo planuota, gauti praktiškai neįmanoma. +3,3 ir +5 V linijų srovės kinta sąlyginai nežymiai, tačiau +12 V linijos atveju kiekvieną kartą iš naujo pamatuojamos srovės, ir į šiuos rezultatus atsižvelgiama skaičiuojant bendrą apkrovą.</p>
+<p>Maitinimo bloko specifikacijos keičiasi ir priklausomai nuo aplinkos temperatūros. Šiai kylant, mažėja ir PSU pajėgumas. Norėdami imituoti realią darbinę aplinką, kurioje gali tekti dirbti maitblokiui (uždaras korpusas be papildomo ventiliatorių, kaistantys komponentai, šilta vasaros diena), jis buvo patalpintas į atvirą korpusą, į kurį buvo nukreiptas netoli pastatytas buitinis kambario šildytuvas. Korpuso viduje taip buvo palaikoma ~38 laipsnių pagal Celsijų temperatūra. Šis sprendimas turi ir nemažą trūkumą: besisukdamas šildytuvo ventiliatorius gana garsiai triukšmauja, todėl bendras patalpos triukšmo lygis stipriai padidėja.</p>
+<p>Blokas bus jungiamas prie įprastinio 220-230 V įtampos tinklo. Visų tolimesnių testų metu maitinimo bloką stengsimės apkrauti 20, 50, 75 ir 100 procentų pagal jo specifikacijas. Kiekvienu atveju multimetru bus matuojamos maitinimo bloko linijų įtampos bei paskaičiuojamas maitinimo bloko efektyvumas (naudingumo koeficientas) pagal iš elektros tinklo naudojamą galią. Taip pat IR termometro pagalba bus matuojama ir bloko temperatūra, o dBA matuokliu - triukšmo lygis, kuris dėl aušintuvų „Anatolijaus“ korpuse ir ventiliatoriaus šildytuve, bus gana aukštas. Įtampos milisvyravimų išmatuoti kol kas negalėsime, kadangi šiam tikslui reikalingas oscilografas, kurio kol kas neturime.</p>
+<p><b>Rezultatai</b></p>
+<p>Pirmiausia, energijos sąnaudos su išjungtu bloku, t.y. tiek, kiek kompiuteris su šiuo bloku vartotų energijos išjungtas. Su išjungtu maitinimo bloko jungikliu [u]PM-300[/i] rodė, jog iš tinklo naudojami 6 W. Įjungus jungiklį šis dydis pakilo iki 15 W. Lentelėje pateikiame keturių bandymų rezultatus:</p>
+<p><img src="http://svarke.technews.lt/Nexus430/nexus430table.png" /></p>
+<p>Pagal testų rezultatus matyti, jog maitinimo blokas pasirodė tikrai gerai. Naudingumo koeficientas nekrito žemiau 80 procentų, o esant ~50 procentų apkrovai, kada maitinimo šaltinių naudingumo koeficientas yra didžiausias, šio bloko naudingumo koeficientas pasiekė 85 procentus. Linijų įtampos taip pat laikėsi labai artimos nominalioms vertėms. Nors ATX standartas leidžia iki 5 procentų nuokrypį, visais atvejais, išskyrus +3,3 liniją paskutiniame bandyme, įtampos nesiskyrė daugiau nei 2 procentais. <i>Value 430</i> ventiliatoriaus triukšmo lygio rezultatai aukšti, kaip jau minėjau, dėl papildomų triukšmo šaltinių, tačiau realiai naudojant maitinimo blokas yra praktiškai negirdimas. Blokas taip pat neturėjo jokių problemų „užmaitinti“ ir kompiuterio su <i>AMD Phenom X4 910</i> procesoriumi ir <i>Radeon HD 4870</i> vaizdo plokšte.</p>
+<p>Bloko apsauga nuo trumpojo jungimo veikia. Užtrumpinus jungčių kontaktus blokas išsijungė, o vėliau įjungtas be problemų veikė toliau. Tiesa, apsauga nuo per didelės srovės iš vienos linijos neveikia/yra išjungta, arba yra nustatyta ties dydžiu, aukštesniu už 30 A, mat tokiai srovei tekant viena +12 V virtualia linija blokas nenutraukė savo darbo. Visgi tai galbūt galima laikyti netgi šiokiu tokiu pliusu.</p>
+<p><b>Išvados</b></p>
+<p><i>Nexus Value</i> 430 W maitinimo blokas su savo darbu susidoroja puikiai. Nors tai ir nėra galingiausioms sistemoms skirtas blokas, tačiau vidutinės ir netgi aukštesnės klasės kompiuteriui jis puikiai tiks. Testų rezultatai liudija, jog gaminys atitinka savo specifikacijas. Dėl mažesnio nei įprastinių ATX blokų dydžio ir tylaus ventiliatoriaus jis puikiai tiktų ir HTPC tipo kompiuteriui. Visgi net 260 - 280 litų siekianti bloko kaina yra aukšta net ir kokybiškam 430 W maitinimo blokui, juolab, jog maitinimo bloko pakuotei pinigų išleista tikrai nedaug. Jei neketinate rinkti kompaktiško bei kaip įmanoma tylesnio kompiuterio, žvalgantis po parduotuves galite rasti pigesnių arba didesnės galios analogų, kurie, greičiausiai nebus praktiškai begarsiai, tačiau sutaupys penkiasdešimtinę.</p>
