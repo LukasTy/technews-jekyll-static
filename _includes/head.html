@@ -6,7 +6,25 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="icon" href="{{ "/favicon.png" | prepend: site.baseurl }}" sizes="32x32">
+
+  <link rel="stylesheet" href="{{ "/assets/css/prettyPhoto.css" | prepend: site.baseurl }}" type="text/css" media="all">
+  <script type="text/javascript">
+  	/* <![CDATA[ */
+  	var rlArgs = {"script":"prettyphoto","selector":"lightbox","customEvents":"","activeGalleries":"1","animationSpeed":"normal","slideshow":"0","slideshowDelay":"5000","slideshowAutoplay":"0","opacity":"0.75","showTitle":"1","allowResize":"1","allowExpand":"1","width":"1080","height":"720","separator":"\/","theme":"pp_default","horizontalPadding":"20","hideFlash":"0","wmode":"opaque","videoAutoplay":"0","modal":"0","deeplinking":"0","overlayGallery":"1","keyboardShortcuts":"1","social":"0"};
+  	/* ]]> */
+  </script>
+  <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend: site.baseurl }}" type="text/css" media="all">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" type="text/css" media="all">
+  <link rel="stylesheet" href="{{ "/assets/css/decent-comments-widget.css" | prepend: site.baseurl }}" type="text/css" media="all">
+  <script type="text/javascript" src="{{ "/assets/js/jquery.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/jquery.prettyPhoto.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/front.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/jquery.flexslider.min.js" | prepend: site.baseurl }}"></script>
+  
+
+
 </head>

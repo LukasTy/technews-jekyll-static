@@ -1,20 +1,139 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body class="home blog col-3cm full-width topbar-enabled s1-collapse s2-collapse">
+    <div id="wrapper">
 
-    {% include header.html %}
+        {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <div class="container" id="page">
+            <div class="container-inner">
+                <div class="main">
+                    <div class="main-inner group">
+                        <section class="content">
+                            <div class="page-title pad group">
+                                <h2>{{ site.title | escape }}</h2>
+                            </div>
+                            <div class="pad group">
+
+                            <script type="text/javascript">
+                                // Check if first slider image is loaded, and load flexslider on document ready
+                                jQuery(function($){
+                                var firstImage = $('#flexslider-featured').find('img').filter(':first'),
+                                checkforloaded = setInterval(function() {
+                                    var image = firstImage.get(0);
+                                    if (image.complete || image.readyState == 'complete' || image.readyState == 4) {
+                                        clearInterval(checkforloaded);
+
+                                        $('#flexslider-featured').flexslider({
+                                            animation: "slide",
+                                            useCSS: false, // Fix iPad flickering issue
+                                            directionNav: true,
+                                            controlNav: true,
+                                            pauseOnHover: true,
+                                            animationSpeed: 400,
+                                            smoothHeight: true,
+                                            touch: 1,
+                                            slideshow: false,
+                                            slideshowSpeed: 5000,
+                                        });
+                                    }
+                                }, 20);
+                                });
+                            </script>
+                            <div class="featured flexslider" id="flexslider-featured">
+                                <ul class="slides">
+                                    <li class="flex-active-slide" data-thumb-alt="" >
+                                        <article id="post-20717" class="group post-20717 post type-post status-publish format-standard has-post-thumbnail hentry category-reviews category-cases">
+                                            <div class="post-inner post-hover">
+
+                                                <div class="post-thumbnail">
+                                                    <a href="http://www.technews.lt/portal/reviews/in-win-805/" title="„In Win 805“: minimalizmas, „sveikas“ apšvietimas ir atspindžiai">
+                                                        <img width="720" height="340" src="http://i0.wp.com/www.technews.lt/portal/wp-content/uploads/2016/05/InWin805logo.jpg?resize=720%2C340" class="attachment-thumb-large size-thumb-large wp-post-image" alt="InWin805logo" srcset="http://i0.wp.com/www.technews.lt/portal/wp-content/uploads/2016/05/InWin805logo.jpg?resize=520%2C245 520w, http://i0.wp.com/www.technews.lt/portal/wp-content/uploads/2016/05/InWin805logo.jpg?resize=720%2C340 720w" sizes="(max-width: 720px) 100vw, 720px" draggable="false">                                      </a>
+                                                        <a class="post-comments" href="http://www.technews.lt/portal/reviews/in-win-805/#comments"><span><i class="fa fa-comments-o"></i>10</span></a>
+                                                    </div><!--/.post-thumbnail-->
+
+                                                    <div class="post-meta group">
+                                                        <p class="post-category"><a href="http://www.technews.lt/portal/category/reviews/" rel="category tag">Apžvalgos</a> / <a href="http://www.technews.lt/portal/category/reviews/cases/" rel="category tag">Korpusai</a></p>
+                                                        <p class="post-date">
+                                                            <time class="published updated" datetime="2016-05-27 19:27:02">2016-05-27</time>
+                                                        </p>
+
+                                                        <p class="post-byline" style="display:none">autorius    <span class="vcard author">
+                                                            <span class="fn"><a href="BC00" rel="author">BC00</a></span>
+                                                        </span> · Paskelbta <span class="published">2016-05-27</span>
+                                                        · Pakeista <span class="updated">2016-05-28</span>  </p>
+                                                    </div><!--/.post-meta-->
+
+                                                    <h2 class="post-title">
+                                                        <a href="http://www.technews.lt/portal/reviews/in-win-805/" rel="bookmark" title="„In Win 805“: minimalizmas, „sveikas“ apšvietimas ir atspindžiai">„In Win 805“: minimalizmas, „sveikas“ apšvietimas ir atspindžiai</a>
+                                                    </h2><!--/.post-title-->
+
+                                                    <div class="entry excerpt entry-summary">
+                                                        <p>901-ojo „In Win“ modelio surinkimo kokybė bei išvaizda tiesiog privertė žagtelti, nors absoliutus ventiliatorių trūkumas,...</p>
+                                                    </div><!--/.entry-->
+
+                                                </div><!--/.post-inner-->
+                                            </article><!--/.post-->     
+                                        </li>
+                                        <li data-thumb-alt="">
+                                            <article class="group post type-post status-publish format-standard has-post-thumbnail hentry category-reviews category-psus">
+                                                <div class="post-inner post-hover">
+
+                                                    <div class="post-thumbnail">
+                                                        <a href="http://www.technews.lt/portal/reviews/be-quiet-pure-power-9/" title="„Be Quiet! Pure Power 9 CM“ – naujas favoritas tarp nebrangių 500 W galios maitinimo šaltinių?">
+                                                            <img width="720" height="340" src="http://i2.wp.com/www.technews.lt/portal/wp-content/uploads/2016/05/PP9logo.jpg?resize=720%2C340" class="attachment-thumb-large size-thumb-large wp-post-image" alt="PP9logo" srcset="http://i2.wp.com/www.technews.lt/portal/wp-content/uploads/2016/05/PP9logo.jpg?resize=520%2C245 520w, http://i2.wp.com/www.technews.lt/portal/wp-content/uploads/2016/05/PP9logo.jpg?resize=720%2C340 720w" sizes="(max-width: 720px) 100vw, 720px" draggable="false">
+                                                        </a>
+                                                        <a class="post-comments" href="http://www.technews.lt/portal/reviews/be-quiet-pure-power-9/#comments">
+                                                            <span><i class="fa fa-comments-o"></i>4</span>
+                                                        </a>
+                                                    </div><!--/.post-thumbnail-->
+
+                                                    <div class="post-meta group">
+                                                        <p class="post-category">
+                                                            <a href="http://www.technews.lt/portal/category/reviews/" rel="category tag">Apžvalgos</a> / <a href="http://www.technews.lt/portal/category/reviews/psus/" rel="category tag">Maitinimo šaltiniai</a>
+                                                        </p>
+                                                        <p class="post-date">
+                                                            <time class="published updated" datetime="2016-05-23 00:05:14">2016-05-23</time>
+                                                        </p>
+
+                                                        <p class="post-byline" style="display:none">autorius    <span class="vcard author">
+                                                            <span class="fn"><a href="BC00" rel="author">BC00</a></span>
+                                                        </span> · Paskelbta <span class="published">2016-05-23</span>
+                                                    </p>
+                                                </div><!--/.post-meta-->
+
+                                                <h2 class="post-title">
+                                                    <a href="http://www.technews.lt/portal/reviews/be-quiet-pure-power-9/" rel="bookmark" title="„Be Quiet! Pure Power 9 CM“ – naujas favoritas tarp nebrangių 500 W galios maitinimo šaltinių?">„Be Quiet! Pure Power 9 CM“ – naujas favoritas tarp nebrangių 500 W galios maitinimo šaltinių?</a>
+                                                </h2><!--/.post-title-->
+
+                                                <div class="entry excerpt entry-summary">
+                                                    <p>500 vatų, 80+ Silver efektyvumas, modulinis dizainas ir 80 eurų neviršijanti kaina – toks būtų...</p>
+                                                </div><!--/.entry-->
+                                            </div><!--/.post-inner-->
+                                        </article><!--/.post-->         
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="post-list group">
+                                {{ content }}
+                            </div>
+
+                            </div>
+                        </section>
+                        {% include left-sidebar.html %}
+                        {% include right-sidebar.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
     </div>
 
-    {% include footer.html %}
-
-  </body>
+</body>
 
 </html>

@@ -1,0 +1,219 @@
+/*
+ Theme Name:   Hueman Child for Technews
+ Theme URI:    http://www.technews.lt/portal
+ Description:  Hueman Child for Technews - the extension of Hueman theme in order not to loose changes when the parent theme is updated
+ Author:       Lukas Tyla
+ Author URI:   llukas.tyla@gmail.com
+ Template:     hueman
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  hueman-child-tn
+*/
+body { 
+	font-family: Verdana, sans-serif;
+	background-color: #eaeaea;
+}
+.container-inner { 
+	max-width: 1450px;
+}
+
+.decent-comments {
+	font-size: 14px;
+}
+
+.decent-comments .comment {
+	padding-top: 0;
+}
+
+.decent-comments li:not(:last-child) .comment {
+	border-bottom: 1px solid #ddd;
+}
+
+.decent-comments ul {
+	margin-left: 5px;
+}
+
+.decent-comments .comment .comment-author {
+	font-style: italic;
+}
+
+.decent-comments .comment .comment-date {
+	color: #999;
+	font-size: 12px;
+}
+
+.decent-comments ul {
+	margin-left: 0;
+}
+
+.widget a {
+	color: #3B8DBD;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+	display: inline-block;
+}
+
+.wp-pagenavi .page {
+	overflow: visible;
+}
+
+.s2 .sidebar-content .widget_rss ul li a {
+	color: #3B8DBD;
+}
+
+.widget_rss ul li span.rss-date {
+	display: inline-block;
+	margin-right: 5px;
+	color: #999;
+}
+
+.widget_rss ul li cite {
+	color: inherit;
+}
+
+.sidebar .widget {
+	padding: 15px 15px 10px;
+}
+
+body, .commentlist .comment-body p, .widget {
+	color: #444;
+}
+.commentlist .comment-body p {
+    overflow-wrap: break-word;
+}
+
+.post-inner .entry.excerpt {
+	color: #777;
+	font-size: 14px;
+}
+
+.sidebar-content .partners {
+	text-align: center;
+}
+
+.sidebar-content .partners img {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: all .2s linear;
+	transition: all .2s linear;
+}
+
+.sidebar-content .partners img:hover {
+	-webkit-filter: none;
+	filter: none;
+}
+
+@media screen and (max-width: 1200px) {
+	.sidebar-content .partners img {
+		-webkit-filter: none;
+		filter: none;
+	}
+}
+
+.multipage-toc li.current a {
+	color: #444;
+	font-weight: bold;
+}
+
+.entry-inner {
+	font-size: 14px;
+}
+
+.popular-phpbb-topics span.last-post-date {
+	font-size: 10px;
+	font-style: italic;
+}
+
+.popular-phpbb-topics .answer-view-count {
+	font-size: 12px;
+	color: #444;
+}
+
+.popular-phpbb-topics li:not(:last-child) {
+	border-bottom: 1px solid #ddd;
+}
+
+#header .pad {
+	padding: 15px 12px;
+}
+
+.sidebar-top {
+	padding: 15px;
+}
+
+.featured, .featured.flexslider {
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+header #header-widgets .widget {
+	height: 80px;
+}
+
+@media only screen and (max-width: 719px) {
+	.site-title {
+		padding: 0;
+	}
+}
+
+.toggle-search {
+	border-right: 1px solid #3B3C3F;
+}
+
+.popular-phpbb-topics a {
+	font-size: 14px;
+}
+
+.comment-form-comment #aec_edit_options {
+	display: none;
+}
+
+@media only screen and (min-width: 720px) {
+	.post-list .post-row .post {
+		width: 33.3%;
+	}
+}
+
+.post-list .post-row {
+	margin-bottom: 20px;
+}
+
+.blog .post, .single .post, .archive .post, .search .post, .search .page {
+	margin-bottom: 20px;
+}
+
+.wpp-list li {
+	margin-bottom: 5px;
+	text-overflow: ellipsis;
+    	overflow: hidden;
+    	white-space: nowrap;
+    	display: block;
+}
+#page {
+    padding-bottom: 20px;
+}
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.decent-comments .comment-excerpt {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.sidebar-content .reklama,
+.after-post-ad {
+	text-align: center;
+}
